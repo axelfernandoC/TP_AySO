@@ -1,0 +1,2 @@
+El comando tcpdump sirve para realizar dump traffic on a network.
+Para realizar dicha busqueda utilize el comando man -k dump
